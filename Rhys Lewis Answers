@@ -1,0 +1,51 @@
+***************************************************************************************************************
+  Rhys Lewis an Introduction:
+***************************************************************************************************************
+An experienced team member with a passion for technology, building relationships and adopting new concepts to better myself, my company and my customers experience. I’m motivated by working at the edge of technological innovation where I can influence and advise customers on strategic investments, driven to continually improve, to do something I haven’t done before, innovate wherever I see relevance to team growth and constantly focus on building customer champions. I love a challenge, not least the challenge of being a proud Welshman in a home with a French wife and fighting the continuous battle to convince our 5-year-old daughter which is the best country in the world to support on Rugby day...WALES obviously...Love to spend time in the mountains, preferably on a pair of skis and I enjoy actively taking part in other sports. ***Coughs*** Maybe more from a watching perspective 
+ 
+www.linkedin.com/in/rhyshlewis
+
+***************************************************************************************************************
+  The Exercise Approach:	
+***************************************************************************************************************
+My approach was to create an introduction to Datadog with a how-to tutorial for customers who are embarking on their journey. 
+
+You've probably read through a ton of these answers by now so I wanted to change it up a bit...Reading can get a little boring, right? If you agree with that last statement then please sit back relax, grab a little popcorn, click the following link, and enjoy my executive video overview of the task in support of the answers below.
+
+Vimeo Video Link:
+Password [rhys@datadog]
+
+***************************************************************************************************************
+  An Introduction To Datadog 
+***************************************************************************************************************
+
+Congratulations & welcome! You are about to embark on a journey that will help to bring sanity to IT management. With the Datadog capabilities you will have the ability to, collect, process, and visualize trillions of data points per day and to solve complex technical problems at scale, using the cloud and today’s best open source technologies. Datadog brings together data from servers, databases, tools, and services to present a unified view of the entire stack.
+
+This simple, 'it just works', technology will get you up and running with full service visibility in no time...Speaking of time...Let’s get started!! 
+
+***************************************************************************************************************
+  Prerequisites - The Resources
+***************************************************************************************************************
+Before we get stuck in here are links to some great resources to help you on your way to becoming a data dog expert.
+
+A great resource that you will return to time and again in the exercise
+https://docs.datadoghq.com/agent/basic_agent_usage/ubuntu/ 
+
+Getting Started: https://docs.datadoghq.com/getting_started/
+Graphing in Datadog: https://docs.datadoghq.com/graphing/
+Monitoring in Datadog: https://docs.datadoghq.com/monitors/monitor_types/
+Writing an Agent check:https://docs.datadoghq.com/agent/agent_checks/
+Datadog API: https://docs.datadoghq.com/api/
+
+***************************************************************************************************************
+  Prerequisites - Setup the environment
+***************************************************************************************************************
+The approach detailed here is to spin up a fresh linux VM via Vagrant Ubuntu 12.04 VM, accessed via VirtualBox. Please review the getting started guide that located here https://www.vagrantup.com/intro/getting-started/
+
+*******
+IMPORTANT: Make sure your upgrade the ubuntu version to 14.04. The instructions can be found here....
+
+[Upgrade.txt] 
+[Upgrade Meme Image]
+
+*******
